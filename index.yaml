@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  graylog:
+  - created: 2018-09-15T22:09:38.5163714+03:00
+    description: A generated Helm Chart for graylog from Skippbox Kompose
+    digest: c8fc63c4af3c97ecba68992adb2bd94c95cf32aa3ddb46dbc90b988937f1da79
+    keywords:
+    - graylog
+    name: graylog
+    urls:
+    - graylog-0.0.1.tgz
+    version: 0.0.1
+generated: 2018-09-15T22:09:38.5154594+03:00
